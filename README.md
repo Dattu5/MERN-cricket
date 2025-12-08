@@ -1,1 +1,1 @@
-this is a cricket information app
+this is a cricket information app , using simple MERN stack
